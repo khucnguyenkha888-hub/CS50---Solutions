@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: lowest time for sorted50000.txt that mean Omega(n) keep check and if correct order it's keep going until n.
+
+sort2 uses: Merge Sort
+
+How do you know?: lowest real, user, sys times for random50000.txt file.
+
+sort3 uses: Selection Sort
+
+How do you know?: It keep switching lowest and highest in order.
